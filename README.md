@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kalhara
 
 <p align="center">
-  <img src="https://media.giphy.com/media/14abFyeRqOtane/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/14abFyeRqOtane/giphy.gif](https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU)" width="300">
 </p>
 
 <p align="center">
